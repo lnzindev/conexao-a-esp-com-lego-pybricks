@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="./assets/brand-mark.svg" width="132" alt="ESP32 × LEGO Pybricks brand mark" />
+
+**BLE · EMBEDDED SYSTEMS**
+
+</div>
+
+---
+
 # ESP32 × LEGO Pybricks
 
 **Experiments with Bluetooth Low Energy communication between an ESP32 and LEGO SPIKE hubs running Pybricks.**
